@@ -5,5 +5,6 @@ When the remote sends an IR signal, it's picked up by the IR receiver. The signa
 the built-in controller and sent to the PC via UART.
 
 Format: NEC
+
 UART: 8N1
 
